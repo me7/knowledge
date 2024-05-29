@@ -1,3 +1,3 @@
-# My Knowledge Journal
-
-https://github.com/me7/knowledge
+# Knowledge
+- repo https://github.com/me7/knowledge
+- collection of my knowledge gathering
